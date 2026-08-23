@@ -23,3 +23,8 @@ que se haya establecido un minimo de bateria necesaria para que la instancia pue
 - Si la instancia no cuenta con el metodo ya mencionado, entonces su atributo "estaDisponible" permaneceria en "true". Pero este seria perjudicial para el usuario, ya que si el Scooter llegara a quedarse sin bateria, podria ocasionar la mala experiencia del Usuario.
 
 Por ello, desde mi punto de vista, directamente la entidad "Scooter" deberia tener el metodo "minimoRequerido" para que asi todas las instancias que surgan a partir de este, cuenten con el mismo metodo.
+
+## Uso de la IA en esta actividad
+
+Para finalizar, me gustaría aclarar el uso que le di a la inteligencia artificial:
+Principalmente utilice la IA para hallar otras perspectivas, y generar explicaciones. ¿A qué me refiero? Al momento de analizar la lógica, yo ya llevaba una idea de cómo debía funcionar el sistema ante esas circunstancias. Lo que hice con la IA fue reafirmar mi teoría, buscando algo más que se me hubiera escapado de la mente. Por otra parte, debo aclarar que al inicio del ejercicio, me resultó algo complicado entender hacia dónde apuntaba toda la actividad, o sea, qué debíamos realizar y conseguir dentro de la misma. Es por ello que utilicé la IA para que me explicara el ejercicio completo con otras palabras. Aparte de lo mencionado, no necesité usar la IA para nada más; la redacción de este README fue realizada completamente por mí y un asistente de ortografía, ya que a veces suelo descuidar un poco mi escritura.
